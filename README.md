@@ -8,7 +8,7 @@
 <div align="center">
 
 <p align="center">
-  <font size="1"><b>Hi, I am Sahil 👋</b></font><br/>
+  <font size="15"><b>Hi, I am Sahil 👋</b></font><br/>
   <font size="3" color="#38bdf8"><b>Software / AI Engineer • Builder • Shipper</b></font>
 </p>
 
