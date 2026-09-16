@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h1 align="center">Hi, I am Sahil 👋</h1>
+<h1 align="center">Hi, I am Sahil</h1>
 <p align="center">
   <b>Software / AI Engineer • Builder • Shipper</b>
 </p>
