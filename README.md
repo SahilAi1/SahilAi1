@@ -7,20 +7,23 @@
 
 <div align="center">
 
-<!-- 1. Snake Game at the Very Top -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-
-<br/>
-
-<!-- 2. Name on Simple Black Background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=125&section=header&text=Hi,%20I%20am%20Sahil%20👋&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20/%20AI%20Engineer%20•%20Builder%20•%20Shipper&descSize=19&descColor=38bdf8&descAlignY=72" width="100%" alt="Hi, I am Sahil" />
+<!-- Name Header without background -->
+<h1>Hi, I am Sahil 👋</h1>
+<p>
+  <b>Software / AI Engineer • Builder • Shipper</b>
+</p>
 
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://github.com/SahilAi1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<!-- Snake Game Below Name -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+
+<br/><br/>
 
 <!-- Top Section: Portfolio Website and LinkedIn Links Only -->
 <p align="center">
