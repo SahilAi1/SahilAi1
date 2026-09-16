@@ -182,7 +182,7 @@ class Sahil:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌤️ A Weather App</h3>
+      <h3 align="center">🌤️ howistoday </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/status-completed-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Full-Stack React & Python Flask Forecast App</b>
       </p>
