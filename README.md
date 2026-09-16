@@ -60,7 +60,7 @@ class Sahil:
                 "building stuff", "Going deeper on Ai"]
 ```
 
-> I like systems that run reliably in production — not notebooks that die on a laptop.
+> I like systems that run reliably in production, not notebooks that die on a laptop.
 > Everything below is built, containerized, and deployed by me.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
