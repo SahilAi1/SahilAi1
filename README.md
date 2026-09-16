@@ -1,37 +1,46 @@
 <!--
   GitHub Profile README — SahilAi1
-  Repo name must be exactly: SahilAi1/SahilAi1  (README.md at root)
-  Single file — every visual is a hosted third-party image URL, nothing local to commit.
+  Repo name: SahilAi1/SahilAi1
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:38bdf8&height=260&section=header&text=Hi,%20I'm%20Sahil&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer&descAlignY=62&descSize=22&animation=fadeIn" width="100%" alt="Hi, I'm Sahil — Software Engineer" />
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:38bdf8&height=230&section=header&text=Hi,%20I%20am%20Sahil%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20/%20AI%20Engineer%20•%20Builder%20•%20Shipper&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hi, I am Sahil — Software Engineer" />
 
-<a href="https://www.sahill.site">
-  <img src="https://img.shields.io/badge/PORTFOLIO-sahill.site-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A&labelColor=0F172A" />
-</a>
-<a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
-</a>
+<!-- Dynamic Animated Typing Banner -->
 <a href="https://github.com/SahilAi1">
-  <img src="https://img.shields.io/badge/GITHUB-SahilAi1-38BDF8?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=0F172A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SahilAi1&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/OPEN%20TO-Full--time%20Roles-2dd4bf?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/BASED%20IN-India-a78bfa?style=flat-square&labelColor=0F172A" />
+<!-- Top Section: Portfolio Website and LinkedIn Links Only -->
+<p align="center">
+  <a href="https://sahill.site" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-sahill.site-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A&labelColor=0F172A" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sahil-harde-7a5a8b238" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Sahil_Harde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
+  </a>
+</p>
+
+<!-- Shifted Contribution Snake Animation Below Name & Top Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="98%" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
 
 </div>
 
-## 🧩&nbsp; whoami
+<br/>
+
+<!-- Animated Subheading: whoami -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=450&lines=%E2%9A%A1+whoami;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Sahil;%F0%9F%A7%A0+Builder+%26+Engineer" alt="whoami" />
+</div>
 
 ```python
 class Sahil:
@@ -39,7 +48,7 @@ class Sahil:
         self.role      = "Software / AI Engineer"
         self.based_in  = "India"
         self.degree    = "B.Tech, Artificial Intelligence"
-        self.diploma.  = "Information Technology"
+        self.diploma   = "Information Technology"
         self.stack     = ["Python", "SQL", "Git", "Github", "Docker", "Mongodb", "Fastapi", "nodejs", "JavaScript", ...]
         self.focus     = ["RAG & LLM apps", "Backend APIs", "Data Analysis"]
         self.mindset   = "Build it end-to-end, deploy it, improve it"
@@ -49,160 +58,242 @@ class Sahil:
                 "building stuff", "Going deeper on Ai"]
 ```
 
-> I like projects that actually run in production — not notebooks that die on my laptop.
-> Everything below is built, broken, and fixed by me.
+> I like systems that run reliably in production — not notebooks that die on a laptop.
+> Everything below is built, containerized, and deployed by me.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
 
-## 🧭&nbsp; Experience
+<br/>
+
+<!-- Animated Subheading: Languages & Tools -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+%26+Tools;%F0%9F%92%BB+Full-Stack+%26+Cloud+Arsenal;%E2%9A%A1+Core+Technologies" alt="Languages & Tools" />
+</div>
+
+<div align="center">
+
+<sub><b>CORE LANGUAGES & RUNTIMES</b></sub>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,bash&perline=6&theme=dark" alt="Languages" />
+</a>
+
+<br/><br/>
+
+<sub><b>WEB, BACKEND & FRAMEWORKS</b></sub>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,wordpress,html,css&perline=7&theme=dark" alt="Backend & Web" />
+</a>
+
+<br/><br/>
+
+<sub><b>AI, MACHINE LEARNING & DATA</b></sub>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=dark" alt="AI/ML" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gen_AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+<sub><b>DATABASES, DEVOPS & TOOLS</b></sub>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,git,github,azure,linux,postman&perline=9&theme=dark" alt="Databases and DevOps" />
+</a>
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<br/>
+
+<!-- Animated Subheading: Featured Projects -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=500&lines=%F0%9F%9A%80+Featured+Projects;%E2%9C%A8+Production-Ready+Builds;%F0%9F%94%A7+Full-Stack+%26+AI+Systems" alt="Featured Projects" />
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 Make Me Short</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-live-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Production Full-Stack URL Shortener & Analytics</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SahilAi1/makemeshort" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
+        </a>
+        &nbsp;
+        <a href="https://makemeshort.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=render&logoColor=white&labelColor=0F172A" alt="Live Demo" />
+        </a>
+      </p>
+      <ul>
+        <li>Architected and deployed a resilient URL shortener with custom vanity slugs, real-time click analytics, and dynamic QR code generation.</li>
+        <li>Hardened REST APIs with security best practices: <b>bcrypt</b> password hashing, <b>JWT</b> auth, <b>express-rate-limit</b>, <b>Helmet</b> HTTP headers, and <b>SSRF</b> protection.</li>
+        <li>Automated testing with Node test runner & Supertest; containerized via <b>Docker</b> and deployed on Render with persistent SQLite storage.</li>
+      </ul>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,docker,js,html,css&theme=dark" height="34" alt="Make Me Short Stack" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📧 Spam Mail Detection</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-live-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>High-Precision NLP Classification Pipeline</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SahilAi1/spamMailDetection" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
+        </a>
+        &nbsp;
+        <a href="https://spammaildetection-a8t2xyymf53too4hcqwq8j.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0F172A" alt="Live App" />
+        </a>
+      </p>
+      <ul>
+        <li>Built an end-to-end NLP classification system in Python achieving <b>98% accuracy</b> in filtering spam messages.</li>
+        <li>Engineered custom text-cleaning, tokenization, stopword removal, and <b>TF-IDF / Count vectorization</b> pipelines.</li>
+        <li>Trained a Naive Bayes classifier, verified with automated <b>pytest</b> test suites, and deployed live on Streamlit Community Cloud.</li>
+      </ul>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=dark" height="34" alt="Spam Mail Detection Stack" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 Skin Disease Detection</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-completed-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Deep Learning Medical Image Classifier</b>
+      </p>
+      <p align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
+        </a>
+      </p>
+      <ul>
+        <li>Engineered an end-to-end computer vision diagnostic assistant using <b>EfficientNet</b> deep convolutional neural network architecture.</li>
+        <li>Leveraged transfer learning, extensive data augmentation, and fine-tuning to maximize generalization across dermatological conditions.</li>
+        <li>Implemented interactive image uploads, preprocessing transforms, and diagnostic probability distributions in Streamlit.</li>
+      </ul>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" height="34" alt="Skin Disease Detection Stack" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" alt="Streamlit" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌤️ A Weather App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-completed-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Full-Stack React & Python Flask Forecast App</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SahilAi1/dot2-weather" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
+        </a>
+      </p>
+      <ul>
+        <li>Engineered a modern weather forecasting application featuring a dynamic <b>React</b> frontend and a lightweight <b>Python Flask</b> proxy server.</li>
+        <li>Protected private WeatherAPI credentials server-side, preventing client-side key exposure with strict environment variable isolation.</li>
+        <li>Packaged for production using <b>uv</b> for fast lockfile resolution, containerized with <b>Docker</b>, and configured for seamless deployment on Render.</li>
+      </ul>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,python,flask,docker,html,css&theme=dark" height="34" alt="Weather App Stack" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<br/>
+
+<!-- Animated Subheading: Experience & Roles -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=500&lines=%F0%9F%92%BC+Professional+Experience;%F0%9F%93%88+Leadership+%26+Execution;%F0%9F%9A%80+Client+Delivery+%26+Impact" alt="Experience" />
+</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <h3>⚙️ Operations Manager</h3>
+<img src="https://img.shields.io/badge/Apr%202025%20--%20Mar%202026-Project%20Leadership-0F172A?style=flat-square&labelColor=38bdf8" />
 
-<img src="https://img.shields.io/badge/Apr%202025%20--%20Mar%202026-Marketing%20Agency-0F172A?style=flat-square&labelColor=38bdf8" />
-
-Owned client communication, cross-team coordination, deadline tracking and end-to-end project delivery across parallel projects.
+<ul>
+  <li>Directed end-to-end client communication, translating complex business requirements into actionable, milestone-driven technical project plans.</li>
+  <li>Coordinated cross-functional teams and streamlined client onboarding, maintaining concurrent workstreams aligned, on schedule, and issue-free.</li>
+  <li>Tracked and delivered deadlines across concurrent projects, ensuring rigorous accountability and quality from kickoff through delivery.</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>💻 Web Development Intern</h3>
+<img src="https://img.shields.io/badge/Jun%202023%20--%20Dec%202023-Technical%20Execution-0F172A?style=flat-square&labelColor=38bdf8" />
 
-<img src="https://img.shields.io/badge/Internship-Marketing%20Agency-0F172A?style=flat-square&labelColor=38bdf8" />
-
-Built and shipped client-facing websites — hands-on with front-end implementation, CMS work and release handoffs.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
-
-## 🚀&nbsp; Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔗 <a href="https://github.com/SahilAi1/makemeshort">MakeMeShort</a></h3>
-
-<img src="https://img.shields.io/badge/status-live-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Full-stack URL shortener</b>
-
-JWT auth, bcrypt hashing, rate limiting, Helmet, QR code generation, and a tested REST API — containerised with Docker.
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-<a href="https://makemeshort.onrender.com"><img src="https://img.shields.io/badge/▶_Live_Demo-38BDF8?style=flat-square&labelColor=0F172A" /></a>
-<a href="https://github.com/SahilAi1/makemeshort"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🖥️ <a href="https://www.sahill.site">sahill.site</a></h3>
-
-<img src="https://img.shields.io/badge/status-live-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Terminal-themed portfolio</b>
-
-A personal site with a CRT/terminal aesthetic — experience, projects, certifications and a guestbook.
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<a href="https://www.sahill.site"><img src="https://img.shields.io/badge/▶_Visit_Site-38BDF8?style=flat-square&labelColor=0F172A" /></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🩺 Skin Disease Detection</h3>
-
-<img src="https://img.shields.io/badge/status-completed-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Deep learning · Computer Vision</b>
-
-Image classification pipeline built on a fine-tuned <b>EfficientNet</b> backbone — data augmentation, transfer learning and evaluation on held-out sets.
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/EfficientNet-38BDF8?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-
-<a href="https://github.com/SahilAi1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📬 Spam Mail Detection</h3>
-
-<img src="https://img.shields.io/badge/status-completed-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Classical ML · NLP</b>
-
-Multinomial <b>Naive Bayes</b> classifier over TF-IDF features reaching <b>~98% accuracy</b> on the test set.
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/TF--IDF-38BDF8?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/NLP-a78bfa?style=flat-square&labelColor=0F172A" />
-
-<a href="https://github.com/SahilAi1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<ul>
+  <li>Designed and deployed 5+ complete client websites, including custom theme engineering, styling, and production troubleshooting.</li>
+  <li>Translated client goals into efficient technical implementations, ensuring optimal responsiveness, SEO fundamentals, and business alignment.</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
-
-## 🛠️&nbsp; Languages & Tools
-
-<div align="center">
-
-<sub><b>LANGUAGES</b></sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,bash&perline=6" />
 
-<sub><b>BACKEND & FRAMEWORKS</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" />
-
-<sub><b>AI / ML & DATA</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&perline=3" />
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
-
-<sub><b>DATABASES, DEVOPS & TOOLS</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,git,github,linux,azure,vscode,postman,wordpress&perline=11" />
-
+<!-- Animated Subheading: Education -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=480&lines=%F0%9F%8E%93+Education+%26+Foundations;%F0%9F%93%9A+Academic+Milestones" alt="Education" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
-
-## 🌙&nbsp; Currently
-
 <table width="100%">
-<tr><td width="15%" align="center">🔭</td><td width="85%"><b>Building</b> — a RAG-based enterprise knowledge assistant</td></tr>
-<tr><td align="center">🌱</td><td><b>Learning</b> — DSA · Advanced SQL · Cloud fundamentals</td></tr>
-<tr><td align="center">💬</td><td><b>Ask me about</b> — Python, REST APIs, ML pipelines, anything I've shipped</td></tr>
-<tr><td align="center">⚡</td><td><b>Fun fact</b> — I'd rather deploy a small thing than demo a big slide deck</td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 B.Tech in Artificial Intelligence</h3>
+<img src="https://img.shields.io/badge/Completed-June%202024-38bdf8?style=flat-square&labelColor=0F172A" />
+
+<ul>
+  <li><b>Relevant Coursework</b>: Python, Data Structures & Algorithms, Data Preprocessing, Machine Learning, Deep Learning, Database Management Systems.</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📜 Diploma in Information Technology</h3>
+<img src="https://img.shields.io/badge/Completed-September%202021-38bdf8?style=flat-square&labelColor=0F172A" />
+
+<ul>
+  <li><b>Core Foundations</b>: Object-Oriented Programming, Operating Systems, Web Technologies, Software Engineering, Relational Databases (RDBMS).</li>
+</ul>
+
+</td>
+</tr>
 </table>
 
-<div align="center">
-
 <br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/If_something_here_is_useful,_a_⭐_goes_a_long_way-0F172A?style=for-the-badge&labelColor=38bdf8" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:203a43,100:0f2027&height=140&section=footer" width="100%" alt="" />
+<!-- Animated Wave Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:203a43,100:0f2027&height=140&section=footer" width="100%" alt="Footer Banner" />
+
+<p align="center">
+  ⭐ <i>Thanks for visiting! Feel free to connect and collaborate.</i> ⭐
+</p>
 
 </div>
