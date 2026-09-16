@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <!--
   GitHub Profile README — SahilAi1
   Repo name: SahilAi1/SahilAi1
@@ -6,9 +8,14 @@
 <div align="center">
 
 <!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:38bdf8&height=230&section=header&text=Hi,%20I%20am%20Sahil%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20/%20AI%20Engineer%20•%20Builder%20•%20Shipper&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hi, I am Sahil — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:38bdf8&height=220&section=header&text=Hi,%20I%20am%20Sahil%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20/%20AI%20Engineer%20•%20Builder%20•%20Shipper&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hi, I am Sahil — Software Engineer" />
 
-<!-- Dynamic Animated Typing Banner -->
+<!-- Snake Animation: Placed immediately underneath the name header banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="98%" />
+</p>
+
+<!-- Dynamic Animated Typing Subtitle -->
 <a href="https://github.com/SahilAi1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
 </a>
@@ -24,11 +31,6 @@
   <a href="https://www.linkedin.com/in/sahil-harde-7a5a8b238" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-Sahil_Harde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
   </a>
-</p>
-
-<!-- Shifted Contribution Snake Animation Below Name & Top Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="98%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
@@ -284,16 +286,71 @@ class Sahil:
 </table>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<br/>
 
+<!-- CYBERPUNK TERMINAL & HUD FOOTER -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/If_something_here_is_useful,_a_⭐_goes_a_long_way-0F172A?style=for-the-badge&labelColor=38bdf8" />
+<table width="100%" style="background-color: #0f172a; border-radius: 12px; border: 1px solid #1e293b;">
+<tr>
+<td>
 
-<!-- Animated Wave Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:203a43,100:0f2027&height=140&section=footer" width="100%" alt="Footer Banner" />
+<div align="left" style="padding: 10px;">
+  <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
+  <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
+  <span style="color: #27c93f; font-size: 14px;">●</span>&nbsp;&nbsp;
+  <font color="#94a3b8" size="2"><b>sahil@system: ~ (zsh)</b></font>
+</div>
+
+<div align="left" style="padding-left: 15px; padding-right: 15px;">
+
+```bash
+sahil@harde:~$ ./status-check.sh
+[✓] Core Systems   : Operational
+[✓] Mindset        : Build it end-to-end, deploy it, improve it
+[✓] Availability   : Open to Software & AI Engineering Roles
+[✓] Current Focus  : Shipping RAG assistants & Agentic AI workflows
+```
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_ROLES-2dd4bf?style=flat-square&logo=gitbook&logoColor=white&labelColor=0F172A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-INDIA_(IST)-a78bfa?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0F172A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LET'S_COLLABORATE-GET_IN_TOUCH-38BDF8?style=flat-square&logo=telegram&logoColor=white&labelColor=0F172A" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sahil-harde-7a5a8b238" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sahill.site" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0F172A" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_To_Top_↑-1E293B?style=for-the-badge&logoColor=38BDF8" />
+  </a>
+</div>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 <p align="center">
-  ⭐ <i>Thanks for visiting! Feel free to connect and collaborate.</i> ⭐
+  <font color="#64748b" size="2">Crafted with precision • Built for the web • Sahil © 2026</font>
 </p>
 
 </div>
