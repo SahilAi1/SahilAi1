@@ -7,13 +7,13 @@
 
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:38bdf8&height=220&section=header&text=Hi,%20I%20am%20Sahil%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20/%20AI%20Engineer%20•%20Builder%20•%20Shipper&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Hi, I am Sahil — Software Engineer" />
+<!-- 1. Snake Game at the Very Top -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 
-<!-- Snake Animation: Placed immediately underneath the name header banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="98%" />
-</p>
+<br/>
+
+<!-- 2. Name on Simple Black Background -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=125&section=header&text=Hi,%20I%20am%20Sahil%20👋&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20/%20AI%20Engineer%20•%20Builder%20•%20Shipper&descSize=19&descColor=38bdf8&descAlignY=72" width="100%" alt="Hi, I am Sahil" />
 
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://github.com/SahilAi1">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
 
 </div>
 
@@ -63,7 +63,7 @@ class Sahil:
 > I like systems that run reliably in production — not notebooks that die on a laptop.
 > Everything below is built, containerized, and deployed by me.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -113,7 +113,7 @@ class Sahil:
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
 <br/>
 
 <!-- Animated Subheading: Featured Projects -->
@@ -215,7 +215,7 @@ class Sahil:
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
 <br/>
 
 <!-- Animated Subheading: Experience & Roles -->
@@ -252,7 +252,7 @@ class Sahil:
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
 <br/>
 
 <!-- Animated Subheading: Education -->
@@ -286,13 +286,13 @@ class Sahil:
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:38bdf8,100:0f2027&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
 <br/>
 
 <!-- CYBERPUNK TERMINAL & HUD FOOTER -->
 <div align="center">
 
-<table width="100%" style="background-color: #0f172a; border-radius: 12px; border: 1px solid #1e293b;">
+<table width="100%" style="background-color: #000000; border-radius: 12px; border: 1px solid #1e293b;">
 <tr>
 <td>
 
@@ -347,7 +347,10 @@ sahil@harde:~$ ./status-check.sh
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer Wave" />
+<!-- Dynamic Neon Laser Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a4d7-11eb-80fa-d80b759610a0.gif" width="100%" height="4" />
+
+<br/>
 
 <p align="center">
   <font color="#64748b" size="2">Crafted with precision • Built for the web • Sahil © 2026</font>
