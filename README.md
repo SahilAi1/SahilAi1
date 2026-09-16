@@ -7,23 +7,20 @@
 
 <div align="center">
 
-<!-- Name Header without background -->
-<h1>Hi, I am Sahil 👋</h1>
-<p>
-  <b>Software / AI Engineer • Builder • Shipper</b>
+<p align="center">
+  <font size="7"><b>Hi, I am Sahil 👋</b></font><br/>
+  <font size="3" color="#38bdf8"><b>Software / AI Engineer • Builder • Shipper</b></font>
 </p>
 
 <!-- Dynamic Animated Typing Subtitle -->
-<a href="https://github.com/SahilAi1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/SahilAi1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=32&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Snake Game Below Name -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-
-<br/><br/>
 
 <!-- Top Section: Portfolio Website and LinkedIn Links Only -->
 <p align="center">
@@ -77,41 +74,30 @@ class Sahil:
 
 <div align="center">
 
-<sub><b>CORE LANGUAGES & RUNTIMES</b></sub>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,bash&perline=6&theme=dark" alt="Languages" />
-</a>
+<p align="center">
+  <sub><b>CORE LANGUAGES & RUNTIMES</b></sub><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,c,cpp,bash&perline=6&theme=dark" alt="Languages" /></a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <sub><b>WEB, BACKEND & FRAMEWORKS</b></sub><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,wordpress,html,css&perline=7&theme=dark" alt="Backend & Web" /></a>
+</p>
 
-<sub><b>WEB, BACKEND & FRAMEWORKS</b></sub>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,wordpress,html,css&perline=7&theme=dark" alt="Backend & Web" />
-</a>
+<p align="center">
+  <sub><b>AI, MACHINE LEARNING & DATA</b></sub><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=dark" alt="AI/ML" /></a><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen_AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
-<br/><br/>
-
-<sub><b>AI, MACHINE LEARNING & DATA</b></sub>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=dark" alt="AI/ML" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Gen_AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
-
-<br/><br/>
-
-<sub><b>DATABASES, DEVOPS & TOOLS</b></sub>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,git,github,azure,linux,postman&perline=9&theme=dark" alt="Databases and DevOps" />
-</a>
+<p align="center">
+  <sub><b>DATABASES, DEVOPS & TOOLS</b></sub><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,git,github,azure,linux,postman&perline=9&theme=dark" alt="Databases and DevOps" /></a>
+</p>
 
 </div>
 
