@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I am Sahil</h1>
 <p align="center">
-  <b>Software / AI Engineer • Builder • Shipper</b>
+  <b>Software / AI Engineer</b>
 </p>
 
 <!-- Dynamic Animated Typing Subtitle -->
