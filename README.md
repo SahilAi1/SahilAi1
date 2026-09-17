@@ -33,11 +33,9 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
-
 </div>
 
-<br/>
+---
 
 <!-- Animated Subheading: whoami -->
 <div align="left">
@@ -63,47 +61,7 @@ class Sahil:
 > I like systems that run reliably in production, not notebooks that die on a laptop.
 > Everything below is built, containerized, and deployed by me.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
-
-<br/>
-
-<!-- Animated Subheading: Languages & Tools -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+%26+Tools;%F0%9F%92%BB+Full-Stack+%26+Cloud+Arsenal;%E2%9A%A1+Core+Technologies" alt="Languages & Tools" />
-</div>
-
-<div align="center">
-
-<p align="center">
-  <sub><b>CORE LANGUAGES & RUNTIMES</b></sub><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,c,cpp,bash&perline=6&theme=dark" alt="Languages" /></a>
-</p>
-
-<p align="center">
-  <sub><b>WEB, BACKEND & FRAMEWORKS</b></sub><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,wordpress,html,css&perline=7&theme=dark" alt="Backend & Web" /></a>
-</p>
-
-<p align="center">
-  <sub><b>AI, MACHINE LEARNING & DATA</b></sub><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=dark" alt="AI/ML" /></a><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gen_AI_%2F_LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-<p align="center">
-  <sub><b>DATABASES, DEVOPS & TOOLS</b></sub><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,git,github,azure,linux,postman&perline=9&theme=dark" alt="Databases and DevOps" /></a>
-</p>
-
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
-<br/>
+---
 
 <!-- Animated Subheading: Featured Projects -->
 <div align="left">
@@ -203,9 +161,7 @@ class Sahil:
   </tr>
 </table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
-<br/>
+---
 
 <!-- Animated Subheading: Experience & Roles -->
 <div align="left">
@@ -240,9 +196,7 @@ class Sahil:
 </tr>
 </table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
-<br/>
+---
 
 <!-- Animated Subheading: Education -->
 <div align="left">
@@ -274,9 +228,15 @@ class Sahil:
 </tr>
 </table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:38bdf8,100:000000&height=3&section=header" width="100%" alt="" />
-<br/>
+---
+
+## 🛠 Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,py,js,html,css,react,nextjs,nodejs,express,fastapi,flask,tensorflow,pytorch,sklearn,opencv,mongodb,mysql,postgres,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,docker,bash,powershell,discord,ps&perline=15&theme=dark" alt="Tech Stack" />
+</a>
+
+---
 
 <!-- CYBERPUNK TERMINAL & HUD FOOTER -->
 <div align="center">
@@ -334,15 +294,10 @@ sahil@harde:~$ ./status-check.sh
 </tr>
 </table>
 
-<br/>
+</div>
 
-<!-- Dynamic Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a4d7-11eb-80fa-d80b759610a0.gif" width="100%" height="4" />
-
-<br/>
+---
 
 <p align="center">
-  <font color="#64748b" size="2">Crafted with precision • Built for the web • Sahil © 2026</font>
+  If you like something or if you find something interesting, give it a star. ⭐
 </p>
-
-</div>
