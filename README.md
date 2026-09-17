@@ -15,7 +15,7 @@
 <!-- Dynamic Animated Typing Subtitle -->
 <p align="center">
   <a href="https://github.com/SahilAi1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=32&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=D2A8FF&center=true&vCenter=true&width=620&height=32&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <!-- Animated Subheading: whoami -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=450&lines=%E2%9A%A1+whoami;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Sahil;%F0%9F%A7%A0+Builder+%26+Engineer" alt="whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=450&lines=%E2%9A%A1+whoami;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Sahil;%F0%9F%A7%A0+Builder+%26+Engineer" alt="whoami" />
 </div>
 
 ```python
@@ -65,7 +65,7 @@ class Sahil:
 
 <!-- Animated Subheading: Featured Projects -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=500&lines=%F0%9F%9A%80+Featured+Projects;%E2%9C%A8+Production-Ready+Builds;%F0%9F%94%A7+Full-Stack+%26+AI+Systems" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=500&lines=%F0%9F%9A%80+Featured+Projects;%E2%9C%A8+Production-Ready+Builds;%F0%9F%94%A7+Full-Stack+%26+AI+Systems" alt="Featured Projects" />
 </div>
 
 <table width="100%">
@@ -165,7 +165,7 @@ class Sahil:
 
 <!-- Animated Subheading: Experience & Roles -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=500&lines=%F0%9F%92%BC+Professional+Experience;%F0%9F%93%88+Leadership+%26+Execution;%F0%9F%9A%80+Client+Delivery+%26+Impact" alt="Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=500&lines=%F0%9F%92%BC+Professional+Experience;%F0%9F%93%88+Leadership+%26+Execution;%F0%9F%9A%80+Client+Delivery+%26+Impact" alt="Experience" />
 </div>
 
 <table width="100%">
@@ -173,7 +173,7 @@ class Sahil:
 <td width="50%" valign="top">
 
 <h3>⚙️ Operations Manager</h3>
-<img src="https://img.shields.io/badge/Apr%202025%20--%20Mar%202026-Project%20Leadership-0F172A?style=flat-square&labelColor=38bdf8" />
+<img src="https://img.shields.io/badge/Apr%202025%20--%20Mar%202026-Project%20Leadership-0F172A?style=flat-square&labelColor=d2a8ff" />
 
 <ul>
   <li>Directed end-to-end client communication, translating complex business requirements into actionable, milestone-driven technical project plans.</li>
@@ -185,7 +185,7 @@ class Sahil:
 <td width="50%" valign="top">
 
 <h3>💻 Web Development Intern</h3>
-<img src="https://img.shields.io/badge/Jun%202023%20--%20Dec%202023-Technical%20Execution-0F172A?style=flat-square&labelColor=38bdf8" />
+<img src="https://img.shields.io/badge/Jun%202023%20--%20Dec%202023-Technical%20Execution-0F172A?style=flat-square&labelColor=d2a8ff" />
 
 <ul>
   <li>Designed and deployed 5+ complete client websites, including custom theme engineering, styling, and production troubleshooting.</li>
@@ -200,7 +200,7 @@ class Sahil:
 
 <!-- Animated Subheading: Education -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&width=480&lines=%F0%9F%8E%93+Education+%26+Foundations;%F0%9F%93%9A+Academic+Milestones" alt="Education" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=480&lines=%F0%9F%8E%93+Education+%26+Foundations;%F0%9F%93%9A+Academic+Milestones" alt="Education" />
 </div>
 
 <table width="100%">
@@ -208,7 +208,7 @@ class Sahil:
 <td width="50%" valign="top">
 
 <h3>🎓 B.Tech in Artificial Intelligence</h3>
-<img src="https://img.shields.io/badge/Completed-June%202024-38bdf8?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Completed-June%202024-d2a8ff?style=flat-square&labelColor=0F172A" />
 
 <ul>
   <li><b>Relevant Coursework</b>: Python, Data Structures & Algorithms, Data Preprocessing, Machine Learning, Deep Learning, Database Management Systems.</li>
@@ -218,7 +218,7 @@ class Sahil:
 <td width="50%" valign="top">
 
 <h3>📜 Diploma in Information Technology</h3>
-<img src="https://img.shields.io/badge/Completed-September%202021-38bdf8?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Completed-September%202021-d2a8ff?style=flat-square&labelColor=0F172A" />
 
 <ul>
   <li><b>Core Foundations</b>: Object-Oriented Programming, Operating Systems, Web Technologies, Software Engineering, Relational Databases (RDBMS).</li>
