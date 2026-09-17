@@ -87,7 +87,7 @@ class Sahil:
       <ul>
         <li>Architected and deployed a resilient URL shortener with custom vanity slugs, real-time click analytics, and dynamic QR code generation.</li>
         <li>Hardened REST APIs with security best practices: <b>bcrypt</b> password hashing, <b>JWT</b> auth, <b>express-rate-limit</b>, <b>Helmet</b> HTTP headers, and <b>SSRF</b> protection.</li>
-        <li>Automated testing with Node test runner & Supertest; containerized via <b>Docker</b> and deployed on Render with persistent SQLite storage.</li>
+        <li>Automated testing with Node test runner & Supertest; containerized via <b>Docker</b> and deployed live on Render with an embedded <b>SQLite</b> database.</li>
       </ul>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,docker,js,html,css&theme=dark" height="34" alt="Make Me Short Stack" />
