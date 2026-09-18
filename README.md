@@ -25,7 +25,7 @@
 <!-- Top Section: Portfolio Website and LinkedIn Links Only -->
 <p align="center">
   <a href="https://sahill.site" target="_blank">
-    <img src="https://img.shields.io/badge/My-Website-sahill.site-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A&labelColor=0F172A" alt="My-Website" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-sahill.site-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A&labelColor=0F172A" alt="portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sahil-harde-7a5a8b238" target="_blank">
